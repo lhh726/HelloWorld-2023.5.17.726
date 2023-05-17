@@ -14,9 +14,9 @@ Bullet 2
 
 -Option 3
 
-___Number 1
+___Number 1___
 
--Number 2 
+Number 2
 
 -Number 3
 
@@ -34,3 +34,6 @@ return0;
 ```bash
 echo "Hello World!" > main.c
 ```
+1 집가고싶다 
+ 
+ 
